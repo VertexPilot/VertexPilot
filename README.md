@@ -3,7 +3,7 @@
 ## 👨‍💻 Who am I
 I am an ICT undergraduate student who is passionate about learning software development and improving my programming skills.
 
-## 🚀 What I’m Currently Working On
+## 🚀 I’m Currently Working On
 - Learning Java and Object-Oriented Programming
 - Practicing problem solving
 - Building small programming projects
@@ -14,6 +14,6 @@ I am an ICT undergraduate student who is passionate about learning software deve
 - VS Code / IntelliJ
 - Basic Web Technologies
 
-## 📫 How to Reach Me
+## 📫 Contact Me
 - Email: lakshanpasindu0908@gmial.com
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/pasindu-lakshan-jayasinghe/)
+- LinkedIn: [Pasindu Lakshan](https://www.linkedin.com/in/pasindu-lakshan-jayasinghe/)
