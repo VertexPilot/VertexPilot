@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Pasindu Lakshan
 
-<!--
-**VertexPilot/VertexPilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who am I
+I am an ICT undergraduate student who is passionate about learning software development and improving my programming skills.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Currently Working On
+- Learning Java and Object-Oriented Programming
+- Practicing problem solving
+- Building small programming projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- Java
+- Git & GitHub
+- VS Code / IntelliJ
+- Basic Web Technologies
+
+## 📫 How to Reach Me
+- Email: lakshanpasindu0908@gmial.com
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/pasindu-lakshan-jayasinghe/)
