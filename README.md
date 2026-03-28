@@ -1,17 +1,23 @@
-# 👋 Hello, I'm Pasindu Lakshan
+# 👋 Hello, I'm Pasindu Lakshan Jayasinghe (VertexPilot)
 
 ## 👨‍💻 Who am I
-I am an ICT undergraduate student who is passionate about learning software development and improving my programming skills.
+I am an ICT undergraduate student who is passionate about learning Game development, 3D modelling and Animation designing.
 
 ## 🚀 I’m Currently Working On
 - Learning Java and Object-Oriented Programming
 - Practicing problem solving
 - Building small programming projects
 
+## 💹 Self Learning and explore new skill
+- Learning 3D object creation and Animation Designing
+- Develop simple 3D model and game using Blender and Unity
+- Game Development using Unity Engine
+
 ## 🛠 Tools & Technologies
-- Java
+- Java / C++ / C / Python nad C#
+- Blender / Unity Hub / Adobe illustrator
 - Git & GitHub
-- VS Code / IntelliJ
+- VS Code / Codeblocks / Notepad++
 - Basic Web Technologies
 
 ## 📫 Contact Me
@@ -19,5 +25,5 @@ I am an ICT undergraduate student who is passionate about learning software deve
 - LinkedIn: [Pasindu Lakshan](https://www.linkedin.com/in/pasindu-lakshan-jayasinghe/)
 - GitHub : [VertexPilot](https://github.com/VertexPilot)
 
-## 📫 Visit Portfolio
+## 🌐 Visit Portfolio
 - Personal Portfolio: [Pasindu Lakshan](https://vertexpilot.github.io/Personal-Portfolio/)
