@@ -21,7 +21,7 @@ I am an ICT undergraduate student who is passionate about learning Game developm
 - Basic Web Technologies
 
 ## 📫 Contact Me
-- Email: lakshanpasindu0908@gmial.com
+- Email: pasindulakshan.dev@gmial.com
 - LinkedIn: [Pasindu Lakshan](https://www.linkedin.com/in/pasindu-lakshan-jayasinghe/)
 - GitHub : [VertexPilot](https://github.com/VertexPilot)
 
