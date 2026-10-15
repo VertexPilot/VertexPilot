@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pasindu Lakshan Jayasinghe (VertexPilot)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalharanonis0&label=Profile%20views&color=0e75b6&style=flat" alt="kalharanonis0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalharanonis0&label=Profile%20views&color=0e75b6&style=flat" alt="VertexPilot" /> </p>
 
 ## 👨‍💻 Who am I
 I am an ICT undergraduate student who is passionate about learning Game development, 3D modelling and Animation designing.
