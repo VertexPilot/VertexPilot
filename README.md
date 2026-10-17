@@ -1,6 +1,10 @@
 # 👋 Hello, I'm Pasindu Lakshan Jayasinghe (VertexPilot)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=VertexPilot&label=Profile%20views&color=0e75b6&style=flat" alt="VertexPilot" /> </p>
+
+<p align="center">
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=VertexPilot&label=Profile%20views&color=0e75b6&style=flat" alt="VertexPilot" /> </p>
+    <a href="https://www.linkedin.com/in/dev-pasindu"><img alt="LinkedIn" src="https://img.shields.io/badge/connect-Pasindu-green?logo=linkedin&style=for-the-badge"></a>
+</p>
 
 ## 👨‍💻 Who am I
 I am an ICT undergraduate student who is passionate about learning Game development, 3D modelling and Animation designing.
